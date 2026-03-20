@@ -70,6 +70,3 @@ The output feeds into outreach tools, CRMs, and mail merge — inconsistent form
 - **Email** — only write what you actually found or can confidently infer from a confirmed company pattern. A wrong email is worse than no email — it wastes outreach attempts and hurts sender reputation. If uncertain, write `null` and note the suspected pattern.
 - **Unknown fields** — write `null`. Never omit the key. Never guess.
 
-## Exporting
-
-Convert to CSV when ready. Spot-check URL and phone formats before handing off.
